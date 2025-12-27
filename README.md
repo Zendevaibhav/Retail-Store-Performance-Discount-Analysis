@@ -1,2 +1,1 @@
-# Retail-Store-Performance-Discount-Analysis
-Analysis of multi-region retail store performance to identify key profitability drivers, assess discount impact, and highlight operational inefficiencies, with actionable recommendations for decision-makers.
+This project examines retail store performance across multiple regions, focusing on profit margins, discount strategies, product mix, and operational factors. It provides department-wise insights and actionable recommendations for leadership, finance, operations, and sales teams. Key findings are visualized through an interactive dashboard, with screenshots and charts included for clarity. The complete dashboard can be accessed
