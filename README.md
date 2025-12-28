@@ -20,8 +20,7 @@ The analysis aims to identify key drivers of profitability, assess the impact of
 - Certain high-volume states show negative profitability, indicating state-specific operational and pricing challenges.
 - Not all top-performing sub-categories contribute positively to profits, highlighting the need for strategic portfolio management.
 
-Visual reference: Overview page from the interactive dashboard !(https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/retail-analysis_graph.png?raw=true).
-
+Visual reference: Overview page from the interactive dashboard ![Overview Dashboard](https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/retail-analysis_graph.png?raw=true)
 
 ## Department-Wise Insights & Recommendations :-
 
@@ -41,8 +40,7 @@ Profit margins decline sharply for discounts above **20–25%** across multiple 
 - **Recommendation:**
 Implement discount approval thresholds and monitor high-discount transactions to protect margins.
 
-Visual reference: Discount bins vs Profit Margin with 0% reference line !(https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/margin-line_graph.png?raw=true)
-
+Visual reference: Discount bins vs Profit Margin with 0% reference line ![Finance Analysis](https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/margin-line_graph.png?raw=true)
 ### 3] Operations / Supply Chain
 
 - **Insight:**
@@ -51,7 +49,7 @@ Same Day shipping in the South region reports **-8.39%** profit margin, primaril
 - **Recommendation:**
 Conduct state-level operational reviews and adjust shipping costs or policies in high-loss areas to improve overall profitability.
 
-Visual reference: Region × Ship Mode margin comparison !(https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/region-graph.png?raw=true)
+Visual reference: Region × Ship Mode margin comparison ![Operations Analysis](https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/region-graph.png?raw=true)
 
 ### 4] Sales / Category Management
 - **Insight:**
@@ -60,7 +58,7 @@ Certain top-selling sub-categories, such as **Bookcases** and **Tables**, show l
 - **Recommendation:**
 Prioritize high-margin products in promotions and adjust sales strategies to improve overall profitability. Revisit discount allocations at the sub-category and category level to limit margin erosion.
 
-![Visual reference: Top 10 Sub-Categories by Sales vs Profit] (https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/sub-category_graph.png?raw=true).
+![Visual reference: Top 10 Sub-Categories by Sales vs Profit](https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/sub-category_graph.png?raw=true).
 
 ## Key Takeaways
 
