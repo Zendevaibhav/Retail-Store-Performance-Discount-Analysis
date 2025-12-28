@@ -58,7 +58,7 @@ Certain top-selling sub-categories, such as **Bookcases** and **Tables**, show l
 - **Recommendation:**
 Prioritize high-margin products in promotions and adjust sales strategies to improve overall profitability. Revisit discount allocations at the sub-category and category level to limit margin erosion.
 
-![Visual reference: Top 10 Sub-Categories by Sales vs Profit](https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/sub-category_graph.png?raw=true).
+Visual reference: Top 10 Sub-Categories by Sales vs Profit  ![Sales Analysis](https://github.com/Zendevaibhav/Retail-Store-Performance-Discount-Analysis/blob/main/sub-category_graph.png?raw=true)
 
 ## Key Takeaways
 
