@@ -34,7 +34,7 @@ Overall revenue is positive, but margin analysis shows certain high-sales region
 - **Recommendation:**
 Focus on margin-led growth targets rather than revenue alone to ensure sustainable profitability.
 
-Visual reference: KPI cards showing total sales, total profit, and overall margin ().
+Visual reference: KPI cards showing total sales, total profit, and overall margin (margin-line_graph.png).
 
 ### 2] Finance
 
