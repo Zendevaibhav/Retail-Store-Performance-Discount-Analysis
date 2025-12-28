@@ -1,4 +1,4 @@
-# Retail Store Performance & Discount Impact Analysis.
+# Retail Store Performance & Discount Impact Analysis. 
 
 ## Project Background.
 
